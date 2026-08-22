@@ -16,6 +16,7 @@ p {
   border-radius: 50%;
   object-fit: cover;
   margin: 50px;
+  outline: 2px #1D6A86;
 }
 
 .backgroundBox {

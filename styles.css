@@ -24,3 +24,7 @@ p {
   background-color: #D97550;
   padding: 15px;
 }
+
+.outlineBox {
+  outline: 4px dashed #000000;
+}

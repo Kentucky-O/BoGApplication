@@ -9,15 +9,16 @@ p {
 }
 
 .profilePic {
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   object-fit: cover;
+  margin: 50px;
 }
 
 .backgroundBox {
   width: 500px;
-  height: 300px;
+  height: 100px;
   background-color: #D97550;
-  padding: 20px;
+  padding: 15px;
 }

@@ -5,7 +5,8 @@ body {
 
 p {
   color: #000000;
-  width: 400px;
+  width: 440px;
+  font-size: 9px;
   font-family: "Monaco", monospace;
 }
 
@@ -19,7 +20,7 @@ p {
 
 .backgroundBox {
   width: 500px;
-  height: 100px;
+  height: 150px;
   background-color: #D97550;
   padding: 15px;
 }

@@ -15,7 +15,7 @@ p {
   height: 250px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: 90% 50%;
+  object-position: 0% 0%;
   margin: 50px;
   outline: 4px solid #1D6A86;
 }

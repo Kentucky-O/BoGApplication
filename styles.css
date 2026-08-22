@@ -16,7 +16,7 @@ p {
   border-radius: 50%;
   object-fit: cover;
   margin: 50px;
-  outline: 2px solid #1D6A86;
+  outline: 4px solid #1D6A86;
 }
 
 .backgroundBox {
@@ -24,11 +24,11 @@ p {
   height: 150px;
   background-color: #D97550;
   padding: 15px;
-  outline: 2px solid #86391D;
+  outline: 4px solid #86391D;
 }
 
 .outlineBox {
-  outline: 4px dashed #000000;
+  outline: 5px dashed #000000;
   width: 1200px;
   height: 600px;
 }
